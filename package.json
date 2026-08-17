@@ -1,5 +1,5 @@
 {
-  "name": "Shhh",
+  "name": "xangetsu",
   "version": "1.0.0",
   "description": "Discord bot that auto-kicks users who post in a restricted channel.",
   "main": "src/index.js",

@@ -1,6 +1,6 @@
-# Shhh - Discord Bot 🤫
+# xangetsu
 
-Kicks any non-admin user who posts in a restricted channel. Deletes their message and DMs them a rejoin invite first.
+A Discord bot. Kicks any non-admin user who posts in a restricted channel. Deletes their message and DMs them a rejoin invite first.
 
 ## Setup
 
